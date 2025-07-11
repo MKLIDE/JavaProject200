@@ -1,0 +1,20 @@
+public class WordString{
+	public static void main(String[] args){
+		String word = "Java";
+		System.out.println(word.charAt(1));
+
+		String name = "Alice";
+		System.out.println(name.length());
+
+		String result = String.format("My score is %d",90);
+		System.out.println(result);
+
+		String word2 = "programming";
+		System.out.println(word2.substring(0,6));
+
+		String sentance = "I love you";
+		System.out.println(sentance.contains("love"));
+
+	}
+
+}
