@@ -19,7 +19,7 @@ Three modular Java applications demonstrating core programming concepts:
 ## ✅ Prerequisites
 - Java JDK 8+ installed
 - Valid MP3 or .wav files for the music player (place in `MoodMusicPlayer/music/`) 
-- [JLayer 1.0.1]([http://www.javazoom.net/javalayer/javalayer.html](https://repo1.maven.org/maven2/javazoom/jlayer/1.0.1/jlayer-1.0.1.jar)) (for music player) (place in `MoodMusicPlayer/lib/`)
+- [JLayer 1.0.1](https://repo1.maven.org/maven2/javazoom/jlayer/1.0.1/jlayer-1.0.1.jar) (for music player) (place in `MoodMusicPlayer/lib/`)
 
 ## 🚀 Quick Setup
 
