@@ -12,6 +12,7 @@ Three modular Java applications demonstrating core programming concepts:
 | 🏋️ BMI Calculator | Console-based BMI calculation | Java SE |
 | 🚗 Car Registration | File-based vehicle management | Java I/O |
 | 🎧 Mood Music Player | MP3 player with playlist support | Java + JLayer |
+| 🎧 Nodepad | FMTALI class projects | Java |
 
 ## 🚀 Getting Started
 
